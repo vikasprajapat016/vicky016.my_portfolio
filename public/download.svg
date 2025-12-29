@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="64" height="64">
+  <!-- Background -->
+  <circle cx="50" cy="50" r="48" fill="#050414"></circle>
+
+  <!-- V -->
+  <text x="28" y="62" font-size="44" font-weight="700" font-family="Poppins, Arial, sans-serif" fill="#3B82F6">
+    V
+  </text>
+
+  <!-- P -->
+  <text x="52" y="62" font-size="44" font-weight="700" font-family="Poppins, Arial, sans-serif" fill="#ffffff">
+    P
+  </text>
+</svg>

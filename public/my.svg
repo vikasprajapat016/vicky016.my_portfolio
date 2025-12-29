@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="220" height="120">
+  <!-- V -->
+  <text x="10" y="90" font-size="96" font-weight="800" font-family="Poppins, Inter, Arial, sans-serif" fill="#3B82F6">
+    V
+  </text>
+
+  <!-- P -->
+  <text x="95" y="90" font-size="96" font-weight="800" font-family="Poppins, Inter, Arial, sans-serif" fill="#ffffff">
+    P
+  </text>
+</svg>
