@@ -24,7 +24,7 @@ import agcLogo from './src/assets/personal.jpg';
 // // Education Section Logo's
 import ruLogo from './src/assets/ru.jpg';
 import svmLogo from './src/assets/svm.jpg';
-import sanskarLogo from './src/assets/sanskar.jpg';
+import sanskarLogo from './src/assets/Sanskar.jpg';
 
 // // Project Section Logo's
  import project1Logo from './src/assets/Newstoday.jpeg';
@@ -164,7 +164,7 @@ export const education = [
     {
       id: 2,
       img: svmLogo,
-      school: "Svm School, jaipur",
+      school: "SVM School, jaipur",
       date: "july 2021 - may 2022",
       grade: "82%",
       desc: "I completed my Senior Secondary Education (Class 12) with a PCM (Physics, Chemistry, Mathematics) stream under the Rajasthan Board of Secondary Education (RBSE). This academic phase strengthened my logical reasoning, analytical thinking, and problem-solving skills. Studying PCM helped me develop a strong foundation for engineering, programming, and technical subjects, supporting my interest in technology and software development.",

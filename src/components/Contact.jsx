@@ -61,7 +61,7 @@ const sendEmail = (e) => {
         </p>
       </div>
 
-      <div className='mt-8 w-full max-w-md bg-[#0d081f] p-6 rounded-lg shadow-lg border border-gray-700'>
+      <div className='mt-8 w-full max-w-md bg-[#0d081f] p-6 rounded-lg shadow-lg border border-gray-700 hover:scale-105 transform transition-transform duration-300 '>
         <h3 className='text-xl font-semibold text-white text-center'>
           Hire ME <span className="ml-1">🚀</span>
         </h3>
@@ -100,7 +100,7 @@ const sendEmail = (e) => {
           </textarea>
 
           <button type='submit'
-          className='w-full bg-gradient-to-r from-purple-600 to-pink-500 py-3 text-white font-semibold rounded-md hover:opacity-90 transition'>
+          className='w-full bg-gradient-to-r from-purple-500 to-pink-500 py-3 text-white  cursor-pointer font-semibold rounded-md hover:opacity-90 transition'>
             send
           </button>
         </form>
